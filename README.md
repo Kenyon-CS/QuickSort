@@ -8,7 +8,7 @@
 
 ## Quick Sort Characteristics:
 
-**Average Time Complexity**: 𝑂(𝑛log 𝑛), but it can degrade to 𝑂(𝑛<sup>2</sup>) if the pivot selection is poor (e.g., always choosing the smallest or largest element in a sorted array).
-**Space Complexity**: 𝑂(log 𝑛) for the recursive stack.
-**Stability**: Quick Sort is not stable, as it may reorder equal elements.
+  - **Average Time Complexity**: 𝑂(𝑛log 𝑛), but it can degrade to 𝑂(𝑛<sup>2</sup>) if the pivot selection is poor (e.g., always choosing the smallest or largest element in a sorted array).
+  - **Space Complexity**: 𝑂(log 𝑛) for the recursive stack.
+  - **Stability**: Quick Sort is not stable, as it may reorder equal elements.
 This example demonstrates the fundamental steps of Quick Sort, showcasing its divide-and-conquer approach and the use of recursion to sort an array efficiently.
