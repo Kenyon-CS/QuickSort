@@ -12,7 +12,7 @@ CXX = g++
 CXXFLAGS = -std=c++11 -Wall -Wextra -pedantic -O2
 
 # Target executable name
-TARGET = mergesort
+TARGET = quicksort
 
 # Source files
 SRC = main.cpp
